@@ -1,0 +1,212 @@
+When preparing for a JavaScript interview, it's essential to have a solid understanding of the language, its features, and its common use cases. Interview questions can range from basic to advanced, and they may cover a variety of topics. Here's a list of JavaScript interview questions that can help you prepare:
+
+**Basic JavaScript Questions:**
+
+1. What is JavaScript, and what is it used for?
+2. What is the difference between `null` and `undefined` in JavaScript?
+3. Explain the difference between `let`, `const`, and `var` for variable declarations.
+4. How do you declare and define a function in JavaScript?
+5. What is a closure, and how is it used in JavaScript?
+6. What is the purpose of the `this` keyword in JavaScript?
+7. Explain the event loop and how it works in JavaScript.
+7. Different between forEach and map?
+7.
+**Data Types and Variables:**
+
+8. What are the primitive data types in JavaScript?
+9. How do you check the data type of a variable in JavaScript?
+10. Explain what coercion is in JavaScript.
+11. How do you declare and work with arrays in JavaScript?
+12. What is the difference between `==` and `===` in JavaScript?
+
+**Functions:**
+
+13. What are anonymous functions, and why are they used?
+14. What is a callback function, and why is it important in JavaScript?
+15. How does the `apply()` and `call()` methods work?
+16. Explain the concept of function hoisting.
+
+**Scope and Closures:**
+
+17. What is variable scope in JavaScript?
+18. How do you create a private variable in JavaScript?
+19. Explain the concept of lexical scope.
+19:what is the error boundry?
+**Object-Oriented Programming:**
+
+20. What is prototypal inheritance in JavaScript?
+21. How can you create an object in JavaScript using constructor functions or classes?
+22. What are prototypes in JavaScript?
+
+**Asynchronous Programming:**
+
+23. What is the purpose of Promises in JavaScript, and how do they work?
+24. Explain `async/await` and how it simplifies asynchronous code.
+25. What is the purpose of the `setTimeout()` function, and how does it work?
+
+**ES6 and Modern JavaScript:**
+
+26. What are arrow functions, and how do they differ from regular functions?
+27. Explain the concepts of destructuring and spread/rest operators.
+28. What is the purpose of template literals in JavaScript?
+29. How are modules used in JavaScript with ES6?
+
+**Error Handling:**
+
+30. What is the `try...catch` statement used for in JavaScript?
+31. Explain the concept of promises and error handling.
+32. How do you handle asynchronous errors in JavaScript?
+
+**Web APIs and DOM Manipulation:**
+
+33. How do you manipulate the DOM using JavaScript?
+34. What is an XMLHttpRequest, and how can you make an AJAX request?
+35. Explain the Fetch API and how it is used for making HTTP requests.
+
+36:what viewport
+37:what is box modal
+38:what is html
+39:what is semantic html
+40:what is css
+41:what is the javascript
+42:what feature of react
+43:what is flex box
+44:different between grid and flex?
+46:what is z-index
+47:what selector in css
+**Testing and Debugging:**
+
+47. What are some common debugging techniques in JavaScript?
+48. How can you write unit tests for JavaScript code using frameworks like Jasmine or Jest?
+
+**Performance Optimization:**
+
+49. What are some strategies for optimizing the performance of JavaScript code and reducing page load times?
+50: what is the meta?
+
+Life cycle methods of components:
+=======================
+3 phases and their methods
+
+Hooks:
+========
+useState
+useEffect
+useContext
+useReducer
+useMemo
+useCallback
+useRef
+
+Virtual dom:
+=========
+Reconciliation
+Diffing algorithm
+Render
+
+SSR and CSR
+============
+Difference and benifit, SEO, Performance
+
+Higher Order components:
+===================
+What is hoc, Why we use , When we use, How we use them ?
+
+State management
+=============
+State
+Props
+Props driling
+Context api
+Redux and toolkit
+
+CustomHooks
+==========
+When to use them and example code.
+
+LazyLoading:
+=========
+code splitting
+Suspense
+chunking
+
+Routing
+================
+react-router
+protected routes
+query params
+Dynamic routing
+Role based access control
+
+
+different between Autherized and Authentications 
+different between Slice and splice
+How routing define in Next JS?
+what is clint side rendring and server side rendring?
+what is jsx?
+what is the useReducer?
+what is useMemo?
+what is the filtring 
+How code optimizations
+what is the error handling
+how error handling?
+Method of API?
+what is react query?
+All http status code(202,200,201,400,404,401 etc)
+
+
+
+
+Testing:
+==================
+unit testing - Jest
+
+Async tasks
+==================
+Api calls
+fetch, axios
+events - scrolling
+
+Reusability, Modularity, Testability and Readability
+
+Performance:
+============
+lazyloading
+optimize assets,js,css
+Bundlers
+How to make rendering components fast and optimized?
+
+Styling:
+===============
+Bootstrap,Material Ui
+Css,scss,inline styling
+
+Remember that interview questions can vary widely depending on the role and the specific requirements of the job. It's essential to not only memorize answers but also understand the underlying concepts and be able to apply your knowledge to practical scenarios. Additionally, you may encounter coding challenges or whiteboard exercises, so be prepared to write code during the interview as well.
+
+🌲 Why choose React? What sets it apart from other libraries and frameworks?
+🌲 Understanding the Virtual DOM and its benefits in React
+🌲 Exploring JSX and its advantages in React development
+🌲 The concept of Reconciliation and its significance in React rendering
+🌲 Understanding the differences between State and Props in React
+🌲 Dive into Hooks-related questions, such as useState and useEffect
+🌲 Exploring the differences between useMemo and useCallback in React
+🌲 Understanding Code Splitting and its role in optimizing React applications
+🌲 The importance of Accessibility considerations in React development
+🌲 Unidirectional behavior in React and its impact on application architecture
+🌲 Comparing Pure Components and Higher Order Components (HOC) in React
+🌲 Addressing security concerns such as CSRF and XSRF in React applications
+🌲 The various use cases of useEffect in different scenarios
+🌲 Deepening your understanding of React optimization techniques
+🌲 Exploring Lazy Loading and its benefits in React applications
+🌲 Comparing Class-based and Functional-based components in React
+🌲 Understanding SEO considerations and best practices in React applications
+🌲 React Router and its role in handling client-side routing in React applications
+🌲 Context API and how it facilitates state management in React without using Redux
+🌲 Server-Side Rendering (SSR) and its benefits for performance and SEO in React applications
+🌲 Error Handling and Error Boundaries in React to gracefully handle runtime errors
+🌲 Testing React components using tools like Jest and React Testing Library
+🌲 Form handling and validation techniques in React applications
+🌲 Performance optimizations using memoization and shouldComponentUpdate
+🌲 Handling asynchronous operations with async/await and Promises in React
+🌲 Using React with popular UI libraries or frameworks like Material-UI or Bootstrap
+🌲 React patterns and best practices for maintainable and scalable code

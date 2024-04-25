@@ -1,0 +1,190 @@
+1. What is React?
+2. What is useMemo ?
+3. What are the features of React ?
+4. What is JSX ?
+5. What is DOM ?
+6. What is Virtual Dom ?
+7. What is component life cycle of React class component ?
+8. What are fragments in react ?
+9. What are props in react ?
+10. What are synthetic events in react ?
+11. What are the difference between Package.json and Package.lock.json ?
+12. What are the differences between client side and server side rendering ?
+13. What is state in Reactjs?
+14. What are props ?
+15. What are the differences between State and Props in react ?
+16. What is props drilling ?
+17. What are the disadvantages of props drilling and How we can avoid props drilling ?
+18. What are Pure components in React ?
+19. Whatare Ref’s in React?
+20. What is meant by forward ref ?
+21. What are Error boundaries ?
+22. What are Higher order components in react ?
+23. What are the differences between controlled and uncontrolled components ? 
+24. What is useCallback ?
+25. What are the differences between useMemo and useCallback ?
+26. What are keys in React ?
+27. What is Lazy loading in React ?
+28. What is suspense in React ?
+29. What are custom hooks ?
+30. What is useReducer hook ?
+31. What are Portals in react ?
+32. What is context in react ?
+33. Practical question: Give an example of context api usage ?
+34. What is the purpose of callback function as an argument of setState()?
+35. Practical question: create a custom hook for increment/decrement counter ?
+36. Which lifecycle hooks in class component are replaced with useEffect in functional components ?
+37. What is Strict mode in react ?
+38. What are the different ways to pass data from child component to parent component in react ?
+39. Practical question: How to send data from child to parent using callback functions ?
+40. Practical question: How to send the data from child component to parent using useRef ?
+41. How do you optimize your react application ?
+42. How would you consume a RESTful JSON API in reactjs?
+43.different design patterns used in react?
+44. context api vs redux
+45. prop types in react(How to apply validation on props in react)
+46. What are React Mixins ?
+47. what are the different hooks you have used ?
+48. What are render props in react ?
+49. What are the different types of exports and imports ?
+50. What are the differences between create element vs clone element in react ?
+51. When to use useState and useReducer?
+52. What is flushSync in react ?
+Don't overwhelm to learn ReactJS,🙄
+
+ReactJS is only this much👇😊
+
+1.Components
+• Functional Components
+• Class Components
+• JSX (JavaScript XML) Syntax
+
+2.Props (Properties)
+• Passing Props
+• Default Props
+• Prop Types
+
+3.State
+• useState Hook
+• Class Component State
+• Immutable State
+
+4.Lifecycle Methods (Class Components)
+• componentDidMount
+• componentDidUpdate
+• componentWillUnmount
+
+5.Hooks (Functional Components)
+• useState
+• useEffect
+• useContext
+• useReducer
+• useCallback
+• useMemo
+• useRef
+• useImperativeHandle
+• useLayoutEffect
+
+6.Event Handling
+• Handling Events in Functional Components
+• Handling Events in Class Components
+
+7.Conditional Rendering
+• if Statements
+• Ternary Operators
+• Logical && Operator
+
+8.Lists and Keys
+• Rendering Lists
+• Keys in React Lists
+
+9.Component Composition
+• Reusing Components
+• Children Props
+• Composition vs Inheritance
+
+10.Higher-Order Components (HOC)
+• Creating HOCs
+• Using HOCs for Reusability
+
+11.Render Props
+• Using Render Props Pattern
+
+12.React Router
+• <BrowserRouter>
+• <Route>
+• <Link>
+• <Switch>
+• Route Parameters
+
+13.Navigation
+• useHistory Hook
+• useLocation Hook
+
+State Management
+14.Context API
+• Creating Context
+• useContext Hook
+
+15.Redux
+• Actions
+• Reducers
+• Store
+• connect Function (React-Redux)
+
+16.Forms
+• Handling Form Data
+• Controlled Components
+• Uncontrolled Components
+
+17.Side Effects
+• useEffect for Data Fetching
+• useEffect Cleanup
+
+18.AJAX Requests
+• Fetch API
+• Axios Library
+
+Error Handling
+19.Error Boundaries
+• componentDidCatch (Class Components)
+• ErrorBoundary Component (Functional
+Components)
+
+20.Testing
+• Jest Testing Framework
+• React Testing Library
+
+21. Best Practices
+• Code Splitting
+• PureComponent and React.memo
+• Avoiding Reconciliation
+• Keys for Dynamic Lists
+
+22.Optimization
+• Memoization
+• Profiling and Performance Monitoring
+
+23. Build and Deployment
+• Create React App (CRA)
+• Production Builds
+• Deployment Strategies
+
+Frameworks and Libraries
+24.Styling Libraries
+• Styled-components
+• CSS Modules
+
+25.State Management Libraries
+• Redux
+• MobX
+
+26.Routing Libraries
+• React Router
+• Reach Router
+
+Free React Courses:
+
+1- React Fundamentals
+
+https://lnkd.in/ghUXd_X4
